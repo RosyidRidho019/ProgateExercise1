@@ -199,3 +199,8 @@ footer .ftlist{
     text-align: right;
 }
 
+.ftlist p a{
+    padding:10px;
+    color:white;
+    text-decoration: none;
+}
