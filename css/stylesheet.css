@@ -1,4 +1,8 @@
-a{text-decoration: none;}
+.anchor{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
 
 body{
     margin-top: 0;
@@ -201,7 +205,4 @@ footer .ftlist{
     text-align: right;
 }
 
-.ftlist p a{
-    padding:10px;
-    color:white;
-}
+
